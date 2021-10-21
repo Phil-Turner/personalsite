@@ -1,0 +1,140 @@
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+hr {
+    border: dotted #EAF6F6 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+
+h1 {
+  color: #66BFBF;
+  font-size: 5.625rem;
+  margin: 50px auto 0px auto;
+  font-family: 'Gloria Hallelujah', cursive;
+  line-height: 0.9;
+}
+
+h2 {
+  color: #66BFBF;
+  font-family: 'Roboto Condensed';
+  font-size: 2.5rem;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h3 {
+  color: #11999E;
+}
+
+p {
+line-height: 2;
+}
+
+a {
+  color: #11999E;
+  font-family:'Roboto Condensed', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+
+.top-container {
+  padding-top: 100px;
+  background-color: #EAF6F6;
+  position: relative;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+
+.top-cloud {
+  position: absolute;
+  top: 50px;
+  right: 300px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  bottom: 300px;
+  left: 300px;
+}
+
+.middle-container {
+  margin: 100px auto;
+}
+
+.profile-picture {}
+
+.computer{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.guitar{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.contact-message{
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+  .BUTTON_NPZ {
+    margin: 30px auto 30px auto;
+     -webkit-border-radius: 20px;
+     -moz-border-radius: 20px;
+     border-radius: 8px;
+     height: 2px;
+     line-height: 2px;
+     color: #FFFFFF;
+     font-family: 'Roboto Condensed', sans-serif;
+     width: 135px;
+     font-size: 20px;
+     font-weight: 100;
+     padding: 21px;
+     background-color: #66BFBF;
+     -webkit-box-shadow: 1px 1px 20px 0 #000000;
+     -moz-box-shadow: 1px 1px 20px 0 #000000;
+     box-shadow: 1px 1px 20px 0 #000000;
+     text-decoration: none;
+     display: inline-block;
+     cursor: pointer;
+     text-align: center;
+  }
+
+  .BUTTON_NPZ:hover {
+     background: #11999E;
+     border: solid #11999E 1px;
+     -webkit-border-radius: 20px;
+     -moz-border-radius: 20px;
+     border-radius: 8px;
+     text-decoration: none;
+  }
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+}
+
+.copyright {
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
